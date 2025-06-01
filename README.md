@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there, i'm Yalal👋
 
+🎓Computer Engeneering student 
+🤖 Passionate about AI, robotics and embedded systems
+📦 Here you will find my personal projects, tests and experiments
+
+## 🚀 Tecnologías que uso
+- HTML, CSS, JavaScript
+- Tailwind CSS, React
+- Java, Arduino, Godot
+
+## I love to continue learning about new technologies. I like to be constant and enrich all my knowledge day by day.
 <!--
 **Zzzoe1007/Zzzoe1007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
