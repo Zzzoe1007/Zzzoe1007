@@ -1,7 +1,7 @@
 ## Hi there, i'm Yalal👋
 
 🎓Computer Engeneering student <br>
-🤖 Passionate about AI, robotics and embedded systems <br>
+🤖 Passionate about webside development AI, robotics and embedded systems <br>
 📦 Here you will find my personal projects, tests and experiments <br>
 
 ## 🚀 Tecnologías que uso
