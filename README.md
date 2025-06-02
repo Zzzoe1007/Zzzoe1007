@@ -4,7 +4,7 @@
 🤖 Passionate about webside development, AI, robotics and embedded systems <br>
 📦 Here you will find my personal projects, tests and experiments <br>
 
-## 🚀 Tecnologías que uso
+## 🚀 Technologies I use:
 - HTML, CSS, JavaScript
 - Tailwind CSS, React
 - Java, Arduino, Godot
