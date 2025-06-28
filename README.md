@@ -6,7 +6,7 @@
 
 ## 🚀 Technologies I use:
 - HTML, CSS, JavaScript
-- Tailwind CSS, React
+- Tailwind CSS, React, React-Native
 - Java, Arduino, Godot
 
 ## I love to continue learning about new technologies. I like to be constant and enrich all my knowledge day by day.
