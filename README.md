@@ -1,13 +1,13 @@
 ## Hi there, i'm Yalal👋
 
 🎓Computer Engeneering student <br>
-🤖 Passionate about webside development, AI, robotics and embedded systems <br>
+🤖 Passionate about webside development, Mobile Apps, AI, robotics and embedded systems <br>
 📦 Here you will find my personal projects, tests and experiments <br>
 
 ## 🚀 Technologies I use:
-- HTML, CSS, JavaScript
-- Tailwind CSS, React, React-Native
-- Java, Arduino, Godot
+- Frontend: HTML, CSS, Tailwind CSS, JavaScript, React
+- Backend: Node.js, Java, MySQL, PostgreSQL
+- Mobile Apps: React-Native
 
 ## I love to continue learning about new technologies. I like to be constant and enrich all my knowledge day by day.
 <!--
